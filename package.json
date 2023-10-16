@@ -1,0 +1,22 @@
+{
+  "name": "my-multiply_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiply.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "Mugisha Clinton",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "eslint": "^8.51.0",
+    "eslint-plugin-mocha": "^10.2.0",
+    "mocha": "^10.2.0"
+  }
+}
