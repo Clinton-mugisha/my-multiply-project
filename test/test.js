@@ -8,6 +8,11 @@ describe("Multiply Function", () => {
   it("should return 4 when multiplying 2 and 2", () => {
     assert.equal(multiply(2, 2), 4);
   });
+  it("should return 9 when multiplying 3 and 3", () => {
+    assert.equal(multiply(3, 3), 9);
+  });
 
+ 
+  
   
 });
